@@ -130,4 +130,50 @@ No published academic literature yet. Know of one? [Open an issue or pull reques
 - **[Iterated Local Search with Random Restarts for the Mentorship and Teamwork Problem](https://doi.org/10.5281/zenodo.23440031)**, U. Lajçi, E. Misini, K. Sylejmani, L. Arbneshi, University of Prishtina, conference presentation, AlbShkenca, Kosovo (2023). In Albanian.
   Builds an initial assignment of engineers to projects with a greedy method, then improves it with iterated local search using engineer-swap, project-removal, and project-insertion moves, plus random restarts. Results are compared against publicly available competition solutions.
 
-  
+## 2014 Final Round Street View Routing
+
+- **[Principled Modeling of the Google Hash Code Problems for Meta-Heuristics](https://estudogeral.uc.pt/retrieve/265403/tese_final_pedro_rodrigues.pdf)**, P. M. D. Rodrigues, MSc thesis, University of Coimbra (2023).
+  Analyzes all Hash Code problems from 2014 to 2022 as benchmarks for metaheuristics, including a description of Street View Routing (Section 3.2.1).
+
+## 2015 Final Round Project Loon
+
+- **[Principled Modeling of the Google Hash Code Problems for Meta-Heuristics](https://estudogeral.uc.pt/retrieve/265403/tese_final_pedro_rodrigues.pdf)**, P. M. D. Rodrigues, MSc thesis, University of Coimbra (2023).
+  Analyzes all Hash Code problems from 2014 to 2022 as benchmarks for metaheuristics, including a description of Project Loon (Section 3.2.2).
+
+## 2016 Final Round Satellites
+
+- **[Principled Modeling of the Google Hash Code Problems for Meta-Heuristics](https://estudogeral.uc.pt/retrieve/265403/tese_final_pedro_rodrigues.pdf)**, P. M. D. Rodrigues, MSc thesis, University of Coimbra (2023).
+  Analyzes all Hash Code problems from 2014 to 2022 as benchmarks for metaheuristics, including a description of Satellites (Section 3.2.3).
+
+## 2017 Final Round Router Placement
+
+- **[Principled Modeling of the Google Hash Code Problems for Meta-Heuristics](https://estudogeral.uc.pt/retrieve/265403/tese_final_pedro_rodrigues.pdf)**, P. M. D. Rodrigues, MSc thesis, University of Coimbra (2023).
+  Analyzes all Hash Code problems from 2014 to 2022 as benchmarks for metaheuristics, including a description of Router Placement (Section 3.2.4).
+
+- **[Genetic Algorithms and Greedy-Randomized Adaptive Search Procedure for Router Placement Problem in Wireless Networks](https://journals.sagepub.com/doi/abs/10.3233/JHS-190616)**, K. Sylejmani, A. Kadriu, E. Ilazi, B. Krasniqi, *Journal of High Speed Networks*, 25(3), 273–300 (2019).
+  Gives an ILP formulation of the problem and solves it with a genetic algorithm and with GRASP. Both use moves that add, remove, jump, and shift routers, plus an operator that shifts routers intelligently within a neighborhood. On the four competition instances, both approaches are competitive with the best published results.
+
+## 2018 Final Round City Plan
+
+- **[Principled Modeling of the Google Hash Code Problems for Meta-Heuristics](https://estudogeral.uc.pt/retrieve/265403/tese_final_pedro_rodrigues.pdf)**, P. M. D. Rodrigues, MSc thesis, University of Coimbra (2023).
+  Analyzes all Hash Code problems from 2014 to 2022 as benchmarks for metaheuristics, including a description of City Plan (Section 3.2.5).
+
+## 2019 Final Round Compiling Google
+
+- **[Principled Modeling of the Google Hash Code Problems for Meta-Heuristics](https://estudogeral.uc.pt/retrieve/265403/tese_final_pedro_rodrigues.pdf)**, P. M. D. Rodrigues, MSc thesis, University of Coimbra (2023).
+  Analyzes all Hash Code problems from 2014 to 2022 as benchmarks for metaheuristics, including a description of Compiling Google (Section 3.2.6).
+
+## 2020 Final Round Assembling Smartphones
+
+- **[Principled Modeling of the Google Hash Code Problems for Meta-Heuristics](https://estudogeral.uc.pt/retrieve/265403/tese_final_pedro_rodrigues.pdf)**, P. M. D. Rodrigues, MSc thesis, University of Coimbra (2023).
+  Analyzes all Hash Code problems from 2014 to 2022 as benchmarks for metaheuristics, including a description of Assembling Smartphones (Section 3.2.7).
+
+## 2021 Final Round Software Engineering at Scale
+
+- **[Principled Modeling of the Google Hash Code Problems for Meta-Heuristics](https://estudogeral.uc.pt/retrieve/265403/tese_final_pedro_rodrigues.pdf)**, P. M. D. Rodrigues, MSc thesis, University of Coimbra (2023).
+  Analyzes all Hash Code problems from 2014 to 2022 as benchmarks for metaheuristics, including a description of Software Engineering at Scale (Section 3.2.8).
+
+## 2022 Final Round Santa Tracker
+
+- **[Principled Modeling of the Google Hash Code Problems for Meta-Heuristics](https://estudogeral.uc.pt/retrieve/265403/tese_final_pedro_rodrigues.pdf)**, P. M. D. Rodrigues, MSc thesis, University of Coimbra (2023).
+  Analyzes all Hash Code problems from 2014 to 2022 as benchmarks for metaheuristics, including a description of Santa Tracker (Section 3.2.9).  
