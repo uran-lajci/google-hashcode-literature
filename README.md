@@ -29,7 +29,7 @@ No published academic literature yet. Know of one? [Open an issue or pull reques
 - **[Algorithm Discovery With LLMs: Evolutionary Search Meets Reinforcement Learning](https://arxiv.org/pdf/2504.05108)**, A. Surina, A. Mansouri, L. Quaedvlieg, A. Seddas, M. Viazovska, E. Abbe, C. Gulcehre, EPFL (2025).
   Introduces EvoTune, which combines LLM-based evolutionary search with reinforcement-learning fine-tuning of the LLM. The Data Center problem is one of its benchmarks, where EvoTune scores 418, above FunSearch's 414 and the top human score of 407.
 
-# 2016 Qualification Round Drone Delivery
+## 2016 Qualification Round Drone Delivery
 
 - **[Principled Modeling of the Google Hash Code Problems for Meta-Heuristics](https://estudogeral.uc.pt/retrieve/265403/tese_final_pedro_rodrigues.pdf)**, P. M. D. Rodrigues, MSc thesis, University of Coimbra (2023).
   Analyzes all Hash Code problems from 2014 to 2022 as benchmarks for metaheuristics, including a description of Drone Delivery (Section 3.2.3). The detailed modeling in the thesis covers other problems.
@@ -43,7 +43,7 @@ No published academic literature yet. Know of one? [Open an issue or pull reques
 - **[Amplifying Human Performance in Combinatorial Competitive Programming](https://arxiv.org/pdf/2411.19744)**, P. Veličković, A. Vitvitskyi, L. Markeeva, B. Ibarz, L. Buesing, M. Balog, A. Novikov, Google DeepMind (2024).
   Uses FunSearch to evolve the scoring functions inside human-written greedy solutions for every Hash Code qualification round from 2015 to 2022. On Drone Delivery, the evolved solution reaches the top percentile of competing teams.
 
-# 2017 Qualification Round Streaming Videos
+## 2017 Qualification Round Streaming Videos
 
 - **[Principled Modeling of the Google Hash Code Problems for Meta-Heuristics](https://estudogeral.uc.pt/retrieve/265403/tese_final_pedro_rodrigues.pdf)**, P. M. D. Rodrigues, MSc thesis, University of Coimbra (2023).
   Analyzes all Hash Code problems from 2014 to 2022 as benchmarks for metaheuristics, including a description of Streaming Videos (Section 3.2.4). The detailed modeling in the thesis covers other problems.
@@ -57,7 +57,16 @@ No published academic literature yet. Know of one? [Open an issue or pull reques
 - **[Towards Efficient Algorithms for Constraint Satisfaction Problems](https://easychair.org/publications/preprint/Vk7H)**, H.-P. Vo, EasyChair Preprint no. 1732 (2019).
   A preprint by the same author that applies the same MiniZinc modeling and solver benchmarking to Streaming Videos.
   
+## 2018 Qualification Round Self-Driving Rides
 
+- **[Principled Modeling of the Google Hash Code Problems for Meta-Heuristics](https://estudogeral.uc.pt/retrieve/265403/tese_final_pedro_rodrigues.pdf)**, P. M. D. Rodrigues, MSc thesis, University of Coimbra (2023).
+  Analyzes all Hash Code problems from 2014 to 2022 as benchmarks for metaheuristics, including a description of Self-Driving Rides (Section 3.2.5). The detailed modeling in the thesis covers other problems.
+
+- **[Amplifying Human Performance in Combinatorial Competitive Programming](https://arxiv.org/pdf/2411.19744)**, P. Veličković, A. Vitvitskyi, L. Markeeva, B. Ibarz, L. Buesing, M. Balog, A. Novikov, Google DeepMind (2024).
+  Uses FunSearch to evolve the scoring functions inside human-written greedy solutions for every Hash Code qualification round from 2015 to 2022. On Self-Driving Rides, the evolved solution beats the top human team's score.
+
+- **[Algorithm Discovery With LLMs: Evolutionary Search Meets Reinforcement Learning](https://arxiv.org/abs/2504.05108)**, A. Surina, A. Mansouri, L. Quaedvlieg, A. Seddas, M. Viazovska, E. Abbe, C. Gulcehre, EPFL (2025).
+  Introduces EvoTune, which combines LLM-based evolutionary search with reinforcement-learning fine-tuning of the LLM. On Self-Driving Rides it evolves the function that picks each car's next ride and reaches the 87.6th percentile of human teams, slightly ahead of FunSearch's 87.1th, though neither beats the top team.
 
 
 
