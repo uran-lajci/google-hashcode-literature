@@ -6,7 +6,7 @@ This document describes how the works in this list were found and selected.
 
 The list covers the 21 Google Hash Code problems from 2014 to 2022, across
 practice, qualification and final rounds. The searches were carried out
-in [month(s) year].
+in October 2026.
 
 ## Search queries
 
@@ -35,9 +35,9 @@ center/centre) and, for the early editions organized from Paris, French terms.
 We first queried Google Scholar, ResearchGate, arXiv, Semantic Scholar and
 CORE. Only Google Scholar, which searches full texts, consistently returned
 relevant results. It therefore became the only source after the first
-[N] problems.
+10 problems.
 
-For each query, we screened [the first N results / all results].
+For each query, we screened all results.
 
 ## Screening
 
@@ -56,5 +56,5 @@ Pizza and One Pizza.
 
 Google Scholar results change over time and are not fully reproducible, and
 relying on a single source means works it does not index may be missing.
-[Screening was done by one person.] If you know of a work that is not listed,
+Screening was done by one person. If you know of a work that is not listed,
 please see [CONTRIBUTING.md](CONTRIBUTING.md).
