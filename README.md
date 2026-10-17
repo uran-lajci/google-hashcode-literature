@@ -43,7 +43,20 @@ No published academic literature yet. Know of one? [Open an issue or pull reques
 - **[Amplifying Human Performance in Combinatorial Competitive Programming](https://arxiv.org/pdf/2411.19744)**, P. Veličković, A. Vitvitskyi, L. Markeeva, B. Ibarz, L. Buesing, M. Balog, A. Novikov, Google DeepMind (2024).
   Uses FunSearch to evolve the scoring functions inside human-written greedy solutions for every Hash Code qualification round from 2015 to 2022. On Drone Delivery, the evolved solution reaches the top percentile of competing teams.
 
+# 2017 Qualification Round Streaming Videos
 
+- **[Principled Modeling of the Google Hash Code Problems for Meta-Heuristics](https://estudogeral.uc.pt/retrieve/265403/tese_final_pedro_rodrigues.pdf)**, P. M. D. Rodrigues, MSc thesis, University of Coimbra (2023).
+  Analyzes all Hash Code problems from 2014 to 2022 as benchmarks for metaheuristics, including a description of Streaming Videos (Section 3.2.4). The detailed modeling in the thesis covers other problems.
+
+- **[Amplifying Human Performance in Combinatorial Competitive Programming](https://arxiv.org/pdf/2411.19744)**, P. Veličković, A. Vitvitskyi, L. Markeeva, B. Ibarz, L. Buesing, M. Balog, A. Novikov, Google DeepMind (2024).
+  Uses FunSearch to evolve the scoring functions inside human-written greedy solutions for every Hash Code qualification round from 2015 to 2022. On Streaming Videos, the evolved solution reaches the top percentile of competing teams.
+
+- **[Towards Efficient Solvers for Optimisation Problems](https://ieeexplore.ieee.org/abstract/document/8752700)**, H.-P. Vo, Uppsala University, IEEE/ACM CCGRID (2019).
+  Models Streaming Videos as a bin-packing problem in MiniZinc in two ways: one built on heuristics and one built on global constraints. It benchmarks both models on five constraint-programming and MIP solvers, comparing running time and final score on the Hash Code instances.
+
+- **[Towards Efficient Algorithms for Constraint Satisfaction Problems](https://easychair.org/publications/preprint/Vk7H)**, H.-P. Vo, EasyChair Preprint no. 1732 (2019).
+  A preprint by the same author that applies the same MiniZinc modeling and solver benchmarking to Streaming Videos.
+  
 
 
 
