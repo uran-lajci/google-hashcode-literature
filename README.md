@@ -85,7 +85,39 @@ No published academic literature yet. Know of one? [Open an issue or pull reques
 - **[Automated Slideshow Design from a Set of Photos Based on a Hybrid Metaheuristic Approach](https://link.springer.com/article/10.1007/s43069-023-00261-0)**, L. Arbneshi, K. Sylejmani, N. Halili, E. Krasniqi, *Operations Research Forum*, 4, 75 (2023).
   The extended journal version of the MIC 2022 paper. It combines a genetic algorithm with iterated local search and compares the results against ILP and CP-SAT models. It matches the top competition results and sets new best scores on two of the four official instances. It also introduces 55 new instances and an instance generator. Code: [GA-ILS](https://github.com/labeatarbneshi/photo-slideshow), [ILP](https://github.com/ksylejmani/Photo-Slideshow-ILP), [CP-SAT](https://github.com/Ndriqim-H/Photo-SlideShow-CP-Sat-Solver).
 
+## 2020 Qualification Round Book Scanning
 
+- **[Amplifying Human Performance in Combinatorial Competitive Programming](https://arxiv.org/pdf/2411.19744)**, P. Veličković, A. Vitvitskyi, L. Markeeva, B. Ibarz, L. Buesing, M. Balog, A. Novikov, Google DeepMind (2024).
+  Uses FunSearch to evolve the scoring functions inside human-written greedy solutions for every Hash Code qualification round from 2015 to 2022. On Book Scanning, the evolved solution beats the top human team's score.
+
+- **[Principled Modeling of the Google Hash Code Problems for Meta-Heuristics](https://estudogeral.uc.pt/retrieve/265403/tese_final_pedro_rodrigues.pdf)**, P. M. D. Rodrigues, MSc thesis, University of Coimbra (2023).
+  Analyzes all Hash Code problems from 2014 to 2022 as benchmarks for metaheuristics and proposes a general modeling framework in Python. Chapter 6 models Book Scanning in detail with a two-phase approach and evaluates it on the competition instances.
+
+- **[Optimization of the Book Scanning Problem via Iterated Local Search and Genetic Algorithms](https://ceur-ws.org/Vol-4044/paper14.pdf)**, D. Alija, M. Kryeziu, E. Hoda, L. Islami, L. Mustafa, Y. Berisha, K. Sylejmani, A. Ahmeti, L. Arbneshi, *RTA-CSIT 2025*, CEUR Workshop Proceedings, Vol. 4044 (2025).
+  A short paper that formulates Book Scanning as a set-packing problem with time and capacity constraints and gives a MILP model. It builds initial solutions with GRASP and improves them with either iterated local search or a genetic algorithm. Both are evaluated on the competition and synthetic instances; the GA matches or beats the best-known results on most instances, with less variation between runs.
+
+## 2021 Qualification Round Traffic Signaling
+
+- **[Principled Modeling of the Google Hash Code Problems for Meta-Heuristics](https://estudogeral.uc.pt/retrieve/265403/tese_final_pedro_rodrigues.pdf)**, P. M. D. Rodrigues, MSc thesis, University of Coimbra (2023).
+  Analyzes all Hash Code problems from 2014 to 2022 as benchmarks for metaheuristics, including a description of Traffic Signaling (Section 3.2.8). The detailed modeling in the thesis covers other problems.
+
+- **[Amplifying Human Performance in Combinatorial Competitive Programming](https://arxiv.org/pdf/2411.19744)**, P. Veličković, A. Vitvitskyi, L. Markeeva, B. Ibarz, L. Buesing, M. Balog, A. Novikov, Google DeepMind (2024).
+  Uses FunSearch to evolve the scoring functions inside human-written greedy solutions for every Hash Code qualification round from 2015 to 2022. On Traffic Signaling, the evolved solution beats the top human team's score.
+
+- **[Solving the Traffic Signaling Problem Using the Iterated Local Search Metaheuristic](https://link.springer.com/article/10.1007/s42452-025-07054-6)**, E. Misini, U. Lajçi, K. Sylejmani, A. Limani, F. Gashi, L. Kurtaj, A. Ahmeti, E. Krasniqi, *Discover Applied Sciences*, 7, 792 (2025).
+  Solves the problem with iterated local search, using a neighborhood of two basic moves and their guided and greedy variants, hill climbing within each iteration, and a perturbation operator. It is evaluated on 48 instances (5 from the competition and 43 new ones) and ranks first on 8 of them within 30 minutes.
+
+- **[Metaheuristic Techniques for Automated Traffic Light Scheduling to Minimize Commute Time](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5470833)**, U. Lajçi, A. Limani, E. Misini, F. Gashi, K. Sylejmani, A. Ahmeti, *Proceedings of PATAT 2024* (14th International Conference on the Practice and Theory of Automated Timetabling), extended abstract (2024).
+  Compares iterated local search with an evolutionary algorithm on the same 48 instances. Both are competitive with Shporer's greedy solver and together set new best results on 12 instances.
+
+- **[Smart Traffic Signal Optimization with an Artificial Bee Colony Algorithm](https://www.researchgate.net/profile/Uran-Lajci/publication/413738394_Smart_Traffic_Signal_Optimization_with_an_Artificial_Bee_Colony_Algorithm/links/6a929c3a7e8edd1da26fb446/Smart-Traffic-Signal-Optimization-with-an-Artificial-Bee-Colony-Algorithm.pdf)**, A. Limani, K. Sylejmani, U. Lajçi, E. Misini, E. Krasniqi, B. Krasniqi, University of Prishtina, poster.
+  Applies an Artificial Bee Colony algorithm in seven variants. The strongest variant starts from Shporer's greedy solution and sets 23 new best results on the 48-instance benchmark.
+
+- **[Traffic Signal Optimization](https://dspace.cuni.cz/handle/20.500.11956/206702)** ([PDF](https://davidruda.github.io/bachelor-thesis/thesis.pdf)), D. Ruda, BSc thesis, Charles University, Prague (2025).
+  Builds a fast simulator for evaluating solutions and uses it to compare a genetic algorithm, hill climbing, and simulated annealing on the competition datasets. It reaches new best scores on two datasets.
+
+- **[Building a Simulator and Emulator for Traffic Signaling](https://victorzxy.github.io/project/traffic-sim/TrafficSim-Report.pdf)**, W. Li, Y. Sun, X. Zhao, University of Cambridge, project report.
+  Builds a microscopic traffic simulator that accepts the Hash Code 2021 input format, then uses Bayesian optimization to search for signal schedules. It compares four scheduling schemes.
 
 
 
