@@ -119,6 +119,15 @@ No published academic literature yet. Know of one? [Open an issue or pull reques
 - **[Building a Simulator and Emulator for Traffic Signaling](https://victorzxy.github.io/project/traffic-sim/TrafficSim-Report.pdf)**, W. Li, Y. Sun, X. Zhao, University of Cambridge, project report.
   Builds a microscopic traffic simulator that accepts the Hash Code 2021 input format, then uses Bayesian optimization to search for signal schedules. It compares four scheduling schemes.
 
+## 2022 Qualification Round Mentorship and Teamwork
 
+- **[Principled Modeling of the Google Hash Code Problems for Meta-Heuristics](https://estudogeral.uc.pt/retrieve/265403/tese_final_pedro_rodrigues.pdf)**, P. M. D. Rodrigues, MSc thesis, University of Coimbra (2023).
+  Analyzes all Hash Code problems from 2014 to 2022 as benchmarks for metaheuristics, including a description of Mentorship and Teamwork (Section 3.2.9). The detailed modeling in the thesis covers other problems.
+
+- **[Amplifying Human Performance in Combinatorial Competitive Programming](https://arxiv.org/pdf/2411.19744)**, P. Veličković, A. Vitvitskyi, L. Markeeva, B. Ibarz, L. Buesing, M. Balog, A. Novikov, Google DeepMind (2024).
+  Uses FunSearch to evolve the scoring functions inside human-written greedy solutions for every Hash Code qualification round from 2015 to 2022. On Mentorship and Teamwork, the evolved solution beats the top human team's score; the paper also uses this problem's scoring function as its worked example (Figure 2).
+
+- **[Iterated Local Search with Random Restarts for the Mentorship and Teamwork Problem](https://doi.org/10.5281/zenodo.23440031)**, U. Lajçi, E. Misini, K. Sylejmani, L. Arbneshi, University of Prishtina, conference presentation, AlbShkenca, Kosovo (2023). In Albanian.
+  Builds an initial assignment of engineers to projects with a greedy method, then improves it with iterated local search using engineer-swap, project-removal, and project-insertion moves, plus random restarts. Results are compared against publicly available competition solutions.
 
   
