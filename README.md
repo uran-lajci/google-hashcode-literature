@@ -28,4 +28,28 @@ No published academic literature yet. Know of one? [Open an issue or pull reques
 
 - **[Algorithm Discovery With LLMs: Evolutionary Search Meets Reinforcement Learning](https://arxiv.org/pdf/2504.05108)**, A. Surina, A. Mansouri, L. Quaedvlieg, A. Seddas, M. Viazovska, E. Abbe, C. Gulcehre, EPFL (2025).
   Introduces EvoTune, which combines LLM-based evolutionary search with reinforcement-learning fine-tuning of the LLM. The Data Center problem is one of its benchmarks, where EvoTune scores 418, above FunSearch's 414 and the top human score of 407.
+
+# 2016 Qualification Round Drone Delivery
+
+- **[Principled Modeling of the Google Hash Code Problems for Meta-Heuristics](https://estudogeral.uc.pt/retrieve/265403/tese_final_pedro_rodrigues.pdf)**, P. M. D. Rodrigues, MSc thesis, University of Coimbra (2023).
+  Analyzes all Hash Code problems from 2014 to 2022 as benchmarks for metaheuristics, including a description of Drone Delivery (Section 3.2.3). The detailed modeling in the thesis covers other problems.
+
+- **[Applied Routing Problem for a Fleet of Delivery Drones Using a Modified Parallel Genetic Algorithm](https://applmathjournal.spbu.ru/article/view/18072/11577)**, A. Markelova, A. Allahverdyan, A. Martemyanov, I. Sokolova, O. Petrosian, M. Svirkin, *Vestnik of Saint Petersburg University. Applied Mathematics. Computer Science. Control Processes*, 18(1), 135–148 (2022).
+  Formulates the problem as a split-delivery, multi-depot, multi-trip, multi-product vehicle routing problem. It solves the problem with a mixed-dimensional parallel genetic algorithm (MDPGA), which shortens drone travel distance by 10–30% compared with a greedy solution.
+
+- **[A Heuristics Based Approach for Optimizing Delivery Schedule of an Unmanned Aerial Vehicle (Drone) Based Delivery System](https://ieeexplore.ieee.org/abstract/document/8593145)**, V. Yadav, A. Narasimhamurthy, BITS Pilani Hyderabad, IEEE ICAPR (2017).
+  Proposes and compares several greedy scheduling heuristics for minimizing the total delivery time. It evaluates them on simulated instances and on the Hash Code 2016 qualification dataset.
+
+- **[Amplifying Human Performance in Combinatorial Competitive Programming](https://arxiv.org/pdf/2411.19744)**, P. Veličković, A. Vitvitskyi, L. Markeeva, B. Ibarz, L. Buesing, M. Balog, A. Novikov, Google DeepMind (2024).
+  Uses FunSearch to evolve the scoring functions inside human-written greedy solutions for every Hash Code qualification round from 2015 to 2022. On Drone Delivery, the evolved solution reaches the top percentile of competing teams.
+
+
+
+
+
+
+
+
+
+
   
