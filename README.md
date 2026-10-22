@@ -96,6 +96,9 @@ No published academic literature yet. Know of one? [Open an issue or pull reques
 - **[Optimization of the Book Scanning Problem via Iterated Local Search and Genetic Algorithms](https://ceur-ws.org/Vol-4044/paper14.pdf)**, D. Alija, M. Kryeziu, E. Hoda, L. Islami, L. Mustafa, Y. Berisha, K. Sylejmani, A. Ahmeti, L. Arbneshi, *RTA-CSIT 2025*, CEUR Workshop Proceedings, Vol. 4044 (2025).
   A short paper that formulates Book Scanning as a set-packing problem with time and capacity constraints and gives a MILP model. It builds initial solutions with GRASP and improves them with either iterated local search or a genetic algorithm. Both are evaluated on the competition and synthetic instances; the GA matches or beats the best-known results on most instances, with less variation between runs.
 
+- **[MIP Formulations for the Google Hash Code 2020 Competition](https://thesis.unipd.it/handle/20.500.12608/435)**, A. Dovigo, BSc thesis, University of Padova (2021). In Italian.
+  Formulates Book Scanning as a pure binary integer program, written in Pyomo and solved with CPLEX 12.10. It tests the model on 270 generated instances with 20 to 9,999 books and looks at how the numbers of days, libraries and books affect solve time. The model finds optimal solutions on the smaller instances, but solve time grows exponentially with size, so it could not solve the competition instances within the time limit. The code is on [GitHub](https://github.com/AminDovigo/BachelorThesis).
+
 ## 2021 Qualification Round Traffic Signaling
 
 - **[Principled Modeling of the Google Hash Code Problems for Meta-Heuristics](https://estudogeral.uc.pt/retrieve/265403/tese_final_pedro_rodrigues.pdf)**, P. M. D. Rodrigues, MSc thesis, University of Coimbra (2023).
